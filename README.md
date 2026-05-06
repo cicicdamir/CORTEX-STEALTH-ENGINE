@@ -11,7 +11,7 @@ CORTEX is a specialized steganography tool designed to hide secret messages with
 * **Compatibility:** Works across most modern platforms (WhatsApp, Discord, Email) that support UTF-8.
 
 ## 🚀 Installation
-1. Clone the repo: `git clone https://github.com/your-username/CORTEX-STEALTH-ENGINE`
+1. Clone the repo: `git clone https://github.com/cicicdamir/CORTEX-STEALTH-ENGINE`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the engine: `python main.py`
 
